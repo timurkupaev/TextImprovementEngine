@@ -70,7 +70,7 @@ For submission, **Approach 1** was chosen. While the BERT + spaCy approach shows
 
 2. Run the tool with custom input files and threshold:
     ```bash
-    python src/text_improvement_engine --input "custom_path/input.txt" --standardized "custom_path/Standardised_terms.csv" --threshold 0.75
+    python src/text_improvement_engine.py --input "custom_path/input.txt" --standardized "custom_path/Standardised_terms.csv" --threshold 0.75
     ```
     This allows you to specify:
     - `--input`: Path to your input text file
