@@ -30,6 +30,11 @@ For this task, two approaches were considered: spaCy and BERT.
 
 For submission, **Approach 1** was chosen. While the BERT + spaCy approach shows promising results with scores over 0.8, the contextual relevance of the suggestions is higher for the spaCy approach alone. Further improvement of the BERT approach is promising and could potentially outperform the spaCy approach.
 
+## Time Taken to Complete the Task
+
+- **Approach 1:** 2-3 hours
+- **Approach 2:** 3.5 hours
+- **Total for both approaches:** 5-6.5 hours
 
 
 ## Setup
