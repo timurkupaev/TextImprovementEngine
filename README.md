@@ -19,8 +19,8 @@ This command line tool analyzes a given text and suggests improvements based on 
 ## Design Rationale and Conclusions 
 
 For **detailed experimentation, development process, and further improvements**, please refer to one of the following files: 
--  `notebooks/development_process.ipynb` 
-- `notebooks/development_process.pdf`
+- `notebooks/development_process.ipynb` [link](notebooks/development_process.ipynb)
+- `notebooks/development_process.pdf` [link](notebooks/development_process.pdf)
 
 For this task, two approaches were considered: spaCy and BERT.
 
