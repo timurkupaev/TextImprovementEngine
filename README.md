@@ -1,7 +1,7 @@
 # Text Improvement Engine
 
 ## Objective
-This tool analyzes a given text and suggests improvements based on the similarity to a list of standardized phrases.
+This command line tool analyzes a given text and suggests improvements based on the similarity to a list of standardized phrases.
 
 
 ## Technologies Used
@@ -35,7 +35,7 @@ For submission, **Approach 1** was chosen. While the BERT + spaCy approach shows
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/timurkupaev/TextImprovementEngine.git
     cd TextImprovementEngine
     ```
 
