@@ -84,8 +84,9 @@ For submission, **Approach 1** was chosen. While the BERT + spaCy approach shows
 The output provides a list of suggestions to replace phrases in the input text with their more "standard" versions. Each suggestion shows the original phrase, the three recommended replacements, and their similarity scores. The suggestions are sorted by similarity scores in descending order.
 
 The tool will output suggestions with similarity scores in the following format:
+```
 Original Phrase: [Original phrase from input text]
 Suggestion: [Suggested standardized phrase] - Score: [Similarity score]
 Suggestion: [Suggested standardized phrase] - Score: [Similarity score]
 Suggestion: [Suggested standardized phrase] - Score: [Similarity score]
-
+```
